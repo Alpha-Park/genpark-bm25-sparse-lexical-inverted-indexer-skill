@@ -1,0 +1,16 @@
+{
+  "name": "genpark-bm25-sparse-lexical-inverted-indexer-skill",
+  "version": "1.0.0",
+  "description": "Okapi BM25 sparse lexical search engine, Robertson-Sp\u00e4rck Jones IDF, and length normalization for hybrid RAG.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "bm25",
+    "okapi",
+    "lexical-search",
+    "sparse-retrieval",
+    "rag",
+    "genpark",
+    "mcp"
+  ]
+}
